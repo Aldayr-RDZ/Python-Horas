@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 datetime = "*"
+python-dateutil = "*"
+pandas = "*"
+requests = "*"
+openpyxl = "*"
+psycopg2 = "*"
+numpy = "*"
 
 [dev-packages]
 
